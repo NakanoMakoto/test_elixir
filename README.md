@@ -1,4 +1,5 @@
 # TestElixir
+this is the test project for learning elixir.
 
 **TODO: Add description**
 
